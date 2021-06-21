@@ -1,0 +1,13 @@
+一定要安装好node对应版本的npm 不然会报各种错误
+能看控制台看控制台  不行看百度  再不行再问老师
+环境变量要提前设置好   打开vscode前记得用管理员打开
+安装bcrypt包时记得在后面加js   可以不用下其他依赖包
+遇到SyntaxError: Unexpected token R in JSON at position 0 报错参考以下代码
+ let articles = await pagination(Article).find().page(1).size(1).display(3).populate('author').exec();
+    let str = JSON.stringify(articles);
+    let json = JSON.parse(str);
+    // res.send(articles)
+    // 渲染文章列表页面模板
+    res.render('admin/article.art', {
+        articles: json
+    });

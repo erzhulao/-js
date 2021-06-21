@@ -1,0 +1,4 @@
+{"_id":{"$oid":"60cf0181bf265634483bcbef"},"state":0,"username":"HJK","email":"jk520wx@qq.com","password":"$2a$10$78Ans/hE8818cu2KFaD/Zu8hiNXvFDDO4s9Cr.wiUsW7pMgIyDmG6","role":"admin","__v":0}
+{"_id":{"$oid":"60cf2650014c195cb49958d1"},"state":0,"username":"HJK one","email":"2294756047@qq.com","password":"$2a$10$HPTTy/jaXVI/szgzk7zEou8KARWo4opRwcnGSO4lABt0c.TWZMIJO","role":"normal","__v":0}
+{"_id":{"$oid":"60cf56bc535a1f66f400543b"},"state":0,"username":"HJK two","email":"123456@qq.com","password":"$2a$10$NeoSa1DkbVSxfGqgJIDCzeBO2WxQ2EXOMYjhJXO0XRKbB4NUIaoR2","role":"normal","__v":0}
+{"_id":{"$oid":"60cf56ca535a1f66f4005440"},"state":0,"username":"HJK 3","email":"1234566@qq.com","password":"$2a$10$c59LBoi8UWwIRXAN1U.FQe0Q1oZyEwtrudrVC4xXXV7xzoSJK28He","role":"normal","__v":0}
